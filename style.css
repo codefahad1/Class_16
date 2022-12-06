@@ -1,0 +1,194 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+.fluid_bg{
+    background: #101446;
+}
+.img{
+    display: inline-block;
+    text-align: center;
+}
+.fluid_bg img{
+    width: 50px;
+    padding: 14px 0;
+}
+.fluid_bg ul {
+    margin: 0;
+    padding: 8px 0px;
+}
+.fluid_bg ul li{
+    list-style:none;
+    display: inline-block;
+}
+.fluid_bg ul li a{
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+    color: white;
+
+}
+
+
+
+
+
+.bg_black{
+    background: #000;
+    color: white;
+}
+.bg_img{
+    background-image: url(./intro-bg.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.banner h3{
+    font-size: 30px;
+}
+.banner p{
+    padding: 35px 0;
+    width: 700px;
+    margin: auto;
+}
+
+.banner button {
+    border-radius: 10px;
+    border: none;
+}
+.banner button a{
+    background-color: #337ab7;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 10px;
+}
+
+.pb_50{
+    padding-bottom: 50px;
+}
+
+.team_bg{
+    background: #bac1f3;
+
+}
+.title h4 {
+    padding: 100px 0 50px 0;
+    font-size: 40px;
+    font-weight: 400;
+}
+
+img{}
+.first_img img{}
+.first_img h4,.secund_img h4,.thrd_img h4{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 15px 0 10px 0;
+    color: rgb(61, 58, 58);
+}
+.first_img p,.secund_img p,.thrd_img p{
+    width: 199px;
+    margin-left: 72px;
+    font-size: 13px;
+    color: #645455;
+}
+.img_team{
+    height: 160px;
+}
+button {
+    border: none;
+    background: #337ab7;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 11px;
+}
+
+
+
+
+
+
+.about_bg{
+    background: #c2d4ea;
+    color: #4f5154;
+}
+.text_left{
+    text-align: left;
+}
+li{
+    list-style: none;
+    color: #4f5154;
+    text-align: left;
+    padding: 4px 0;
+}
+.pra p{
+    text-align: left;
+    padding: 40px 0 0 28px;
+    font-size: 15px;
+
+}
+.p_1{
+    font-style: 13px;
+
+}
+
+.p_3 {
+    font-weight: 600;
+}
+
+
+
+
+
+
+.contact_bg{
+    background: #f5f5f5;
+    padding-bottom: 80px;
+}
+.map{
+    width: 300px;
+    height: 300px;
+}
+form {
+    text-align: justify;
+    margin-left: 60px;
+}
+input{
+    width: 350px;
+    padding:  5px ;
+    border-radius: 5px;
+    border: 1px solid #cccccc;
+}
+.comment{
+    height: 150px;
+}
+.submit{
+    background: #5bc0de;
+    padding: 6px 13px;
+    border-radius: 5px;
+}
+
+
+
+
+
+
+.copy {
+    background: #0062d3;
+    text-align: center;
+    color: white;
+    padding: 25px;
+}
+.copy h5 {
+    font-size: 18px;
+    font-weight: 400;
+}
+.copy span{
+    font-weight: 700;
+}
